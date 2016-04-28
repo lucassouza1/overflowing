@@ -1,0 +1,23 @@
+{
+  "name": "jquery.overflowing",
+  "homepage": "https://github.com/lucassouza1/overflowing",
+  "authors": [
+    "Lucas Souza <lucassouza1@gmail.com>"
+  ],
+  "description": "A small jQuery plugin that traverses up the dom and checks to see if it is overflowing any of its parent elements.",
+  "main": "jquery.overflowing.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
